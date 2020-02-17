@@ -2,13 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a773d030-cc88-4fb7-9766-745c4f7f8a08" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/salvadorzxa/HellowWorld.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/salvadorzxa/HellowWorld.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parent/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/log4j.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Week2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Week2.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/salvadorzxa/HellowWorld.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/salvadorzxa/HellowWorld.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/salvadorzxa/HellowWorld.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/salvadorzxa/HellowWorld.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,7 +38,7 @@
     <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.repository.indices" />
   </component>
   <component name="RunManager">
     <configuration name="HellowWorld" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -82,26 +82,26 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="421" y="95" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1581956599217" />
-    <state width="1224" height="147" key="GridCell.Tab.0.bottom" timestamp="1581957527901">
+    <state width="1222" height="140" key="GridCell.Tab.0.bottom" timestamp="1581969875898">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1224" height="147" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1581957527901" />
-    <state width="1224" height="147" key="GridCell.Tab.0.center" timestamp="1581957527901">
+    <state width="1222" height="140" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1581969875898" />
+    <state width="1222" height="140" key="GridCell.Tab.0.center" timestamp="1581969875898">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1224" height="147" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1581957527901" />
-    <state width="1224" height="147" key="GridCell.Tab.0.left" timestamp="1581957527901">
+    <state width="1222" height="140" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1581969875898" />
+    <state width="1222" height="140" key="GridCell.Tab.0.left" timestamp="1581969875898">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1224" height="147" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1581957527901" />
-    <state width="1224" height="147" key="GridCell.Tab.0.right" timestamp="1581957527901">
+    <state width="1222" height="140" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1581969875898" />
+    <state width="1222" height="140" key="GridCell.Tab.0.right" timestamp="1581969875898">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1224" height="147" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1581957527901" />
-    <state x="121" y="0" key="SettingsEditor" timestamp="1581957509594">
+    <state width="1222" height="140" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1581969875898" />
+    <state x="121" y="0" key="SettingsEditor" timestamp="1581964874881">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="121" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1581957509594" />
+    <state x="121" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1581964874881" />
     <state x="336" y="164" key="com.intellij.ide.util.TipDialog" timestamp="1581956440208">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
